@@ -1,3 +1,3 @@
 # asdf
 <img/src=x>
-![img](http://localhost/xxx.png)
+![img](http://img.c0xu0u.ceye.io/xxx.png)
